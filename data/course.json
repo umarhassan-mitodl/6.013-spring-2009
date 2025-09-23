@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ]
+  ],
+  "legacy_uid": "b95a4860-6f2f-2127-c671-6966b95964a8",
+  "instructors": {
+    "content": [
+      "af45e1f3-e2f1-ee26-4a9c-3751c0f40df1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c6dd070d-02ad-4444-f30b-0baa5ed47021",
+    "website": "6-013-electromagnetics-and-applications-spring-2009"
+  },
+  "course_title": "Electromagnetics and Applications",
+  "course_description": "This course explores electromagnetic phenomena in modern applications, including wireless and optical communications, circuits, computer interconnects and peripherals, microwave communications and radar, antennas, sensors, micro-electromechanical systems, and power generation and transmission. Fundamentals include quasistatic and dynamic solutions to Maxwell's equations; waves, radiation, and diffraction; coupling to media and structures; guided waves; resonance; acoustic analogs; and forces, power, and energy.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.013",
+  "course_image_thumbnail": {
+    "content": "7f10db05-a98a-dcb0-9bff-fc3c9896f671",
+    "website": "6-013-electromagnetics-and-applications-spring-2009"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Demonstration Videos",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Open Textbooks"
+  ],
+  "site_uid": "7690ef64-08a7-4e68-b9ea-d696f7318715",
+  "site_short_id": "6.013-spring-2009",
+  "site_url_path": "courses/6-013-electromagnetics-and-applications-spring-2009",
+  "title": "Course Metadata"
+}

@@ -1,0 +1,29 @@
+leftnav:
+- identifier: 30fcb4f0-566b-c8f4-9d8d-0aea4e3a91b2
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: be2b1018-dfa8-5ce3-6c30-b1bff5303f00
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 31f14fa4-1ee6-0358-6058-4feee6a7f484
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 3fdb8131-6148-6738-aed2-aea9b1cebd71
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: cb22634f-94d3-4e0a-9d8c-c4747d9ac415
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: 70e86683-53f3-08f3-03f7-503d4e4e3f60
+  name: Exams
+  pageRef: /pages/exams
+  weight: 60
+- identifier: 5a717f3c-cfff-e7aa-8019-9714433617bd
+  name: Movie Demonstrations
+  pageRef: /pages/movie-demonstrations
+  weight: 70
