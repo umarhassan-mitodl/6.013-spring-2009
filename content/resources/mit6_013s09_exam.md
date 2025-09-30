@@ -5,6 +5,8 @@ description: This resource contains problem statements related to capacitance, c
 file: /courses/6-013-electromagnetics-and-applications-spring-2009/3a5abd06377d32dfc7345a54fdbbc898_MIT6_013S09_exam.pdf
 file_size: 147773
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

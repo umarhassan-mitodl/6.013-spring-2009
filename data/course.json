@@ -27,6 +27,7 @@
     "website": "6-013-electromagnetics-and-applications-spring-2009"
   },
   "course_title": "Electromagnetics and Applications",
+  "hide_download": true,
   "course_description": "This course explores electromagnetic phenomena in modern applications, including wireless and optical communications, circuits, computer interconnects and peripherals, microwave communications and radar, antennas, sensors, micro-electromechanical systems, and power generation and transmission. Fundamentals include quasistatic and dynamic solutions to Maxwell's equations; waves, radiation, and diffraction; coupling to media and structures; guided waves; resonance; acoustic analogs; and forces, power, and energy.\n",
   "department_numbers": [
     "6"
@@ -37,6 +38,7 @@
     "content": "7f10db05-a98a-dcb0-9bff-fc3c9896f671",
     "website": "6-013-electromagnetics-and-applications-spring-2009"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Demonstration Videos",

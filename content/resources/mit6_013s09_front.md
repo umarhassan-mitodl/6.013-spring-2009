@@ -5,6 +5,8 @@ description: This resource contains the table of contents related to electromagn
 file: /courses/6-013-electromagnetics-and-applications-spring-2009/c22bd6cd0612592d69f61fa534acb72f_MIT6_013S09_front.pdf
 file_size: 112790
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains movies and demos developed with MATLAB that illustrate
   concepts presented in class.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Movie Demonstrations
@@ -14,7 +16,7 @@ video_metadata:
 
 This section contains movies and demos developed with MATLAB® that illustrate concepts presented in class.
 
-The following link also contains demos from a previous offering of the course: {{% resource_link "0cadd29a-3d73-4ec2-9022-ca7b607baace" "Physical Demonstrations" %}} of Faraday's Law, Electrostatics, and Radiation.
+The following link also contains demos from a previous offering of the course: [Physical Demonstrations](http://web.mit.edu/jbelcher/www/anim.html) of Faraday's Law, Electrostatics, and Radiation.
 
 {{< tableopen >}}
 {{< theadopen >}}
