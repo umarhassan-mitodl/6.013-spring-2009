@@ -5,8 +5,6 @@ description: This resource contains solutions for the problem statements related
 file: /courses/6-013-electromagnetics-and-applications-spring-2009/cd44b2f55ff76c0eeb8e87c14d00c71e_MIT6_013S09_sol_pset11.pdf
 file_size: 210983
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

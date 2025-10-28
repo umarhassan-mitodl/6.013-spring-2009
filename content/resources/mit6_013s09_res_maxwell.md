@@ -4,8 +4,6 @@ description: This resource contains a list of maxwell's equations.
 file: /courses/6-013-electromagnetics-and-applications-spring-2009/5ba9999170b765b7d1f1a4b9936af3bc_MIT6_013S09_res_maxwell.pdf
 file_size: 42040
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

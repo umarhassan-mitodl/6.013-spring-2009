@@ -5,8 +5,6 @@ description: This resource contains the appendices related to electromagnetics a
 file: /courses/6-013-electromagnetics-and-applications-spring-2009/6fa0dd1b76ca434baefa294742476195_MIT6_013S09_back.pdf
 file_size: 266348
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
